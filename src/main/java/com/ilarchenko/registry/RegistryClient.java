@@ -1,4 +1,5 @@
 package com.ilarchenko.registry;
 
-public interface RegistryClient {
+public interface RegistryClient extends DiscoveryRegistryClient {
+
 }
